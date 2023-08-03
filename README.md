@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
 <h3 align="center">An Android Developer based in the Philippines.</h3>
 
-As you see my expertise currently revolves around Android application developement. 
+As you see my expertise currently revolves around Android application development. 
 
 <p align="left">
 </p>
