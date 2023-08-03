@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mark Tristan Repalda Fabellar</h1>
-<h3 align="center">An aspiring Software Developer based in the Philippines.</h3>
+<h1 align="center">Hi 👋, I'm Tristan</h1>
+<h3 align="center">An Android Developer based in the Philippines.</h3>
 
-<h3 align="left">Connect with me:</h3>
+As you see my expertise currently revolves around Android application developement. 
+
 <p align="left">
 </p>
 
