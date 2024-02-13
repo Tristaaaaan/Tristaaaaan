@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-<h2 align="left">Tecnologies</h2>
+<h2 align="left">Tecnologies
 <p align="left"> 
 
 ### Programming Languages
@@ -28,6 +28,7 @@
 ### Other
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
+</h2>
 <h3 align="left">Statistics:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tristaaaaan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
