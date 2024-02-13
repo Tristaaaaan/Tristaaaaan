@@ -16,6 +16,7 @@
 ### Android App Framework
 
 ### Web Framework
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a>
 
 ### Backend as a Service(BaaS)
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
