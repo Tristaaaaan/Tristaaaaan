@@ -1,11 +1,6 @@
 <h1 align="center">Good day, I'm Tristan</h1>
 <h3 align="center">A Python Developer</h3>
 
-- 🌱 I’m currently learning **Supabase and FastAPI**
-
-- 📫 How to reach me **marktristanfabellar.pro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
