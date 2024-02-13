@@ -1,10 +1,10 @@
 <h1 align="center">Good day, I'm Tristan</h1>
-<h3 align="center">A Python Developer</h3>
+<h2 align="center">A Python Developer</h2>
 
 <p align="left">
 </p>
 
-<h3 align="left">I used the following technologies on the projects I develop.</h3>
+<h3 align="left">Tecnologies</h3>
 <p align="left"> 
 
 ### Programming Languages
