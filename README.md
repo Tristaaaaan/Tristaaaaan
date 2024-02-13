@@ -15,5 +15,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/nightcity"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/nightcity" /></a></p><br><be>
 
-[![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Tristan's GitHub stats]](https://github.com/Tristaaaaan/github-readme-stat)
 
