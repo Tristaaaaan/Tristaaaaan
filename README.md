@@ -1,4 +1,4 @@
-<h1 align="center">Good day 👋, I'm Tristan</h1>
+<h1 align="center">Good day, I'm Tristan</h1>
 <h3 align="center">A Python Developer</h3>
 
 - 🌱 I’m currently learning **Supabase and FastAPI**
