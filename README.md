@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark Tristan Repalda Fabellar</h1>
-<h3 align="center">An aspiring Software Developer based in the Philippines.</h3>
+<h1 align="center">Good day 👋, I'm Tristan</h1>
+<h3 align="center">A Python Developer</h3>
 
 - 🌱 I’m currently learning **Supabase and FastAPI**
 
