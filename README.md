@@ -4,13 +4,15 @@
 
 <h3 align="left">About</h3>
 
-I begin programming on my year as a College student. Python has been the main programming language I use on my personal projects and commission ones. 
+I began programming in my first year as a college student. Python has been the main programming language I use on my personal projects and commission ones.
 
-I started venturing on other frameworks such as Kotlin, which I develop a simple project and named it Winr. Aside from that, I also began learning React Native, and I already love it, over the air loading is just a game changer. 🤯
+I started venturing into other frameworks, such as Kotlin, for which I developed a simple project and named it Winr. Aside from that, I also began learning React Native, and I already love it. Over-the-air loading is just a game changer. 🤯 I also started diving into the utilization of Supabase and FastAPI. 
 
-Currently, I am working on a Coffee Borer Beetle Detection System where I am training a model that will be used in detecting the entry holes which are the most common symptom to determine if a coffee berry is infested by a CBB. I have already begand the training of the model and I can say that the accuracy is satisfying for other classes and we will be gathering more data to be trained to solidy the model. 
+Currently, I am working on a Coffee Borer Beetle Detection System where I am training a model that will be used in detecting the entry holes, which are the most common symptom to determine if a coffee berry is infested by a CBB. I have already begun the training of the model, and I can say that the accuracy is satisfying for other classes, and we will be gathering more data to be trained to solidify the model. 😍
 
-Wooo, it is already getting long so I will end it here, just message me on my platforms if you have any questions. But to sum it up, programming has been so fun these past few months. My journey has just began and I plan to published all my projects on Google Playstore soon. 💥
+For the 1st half of this year, I plan to publish all my projects on the Google Play Store. 💥
+
+Wooo, it is already getting long, so I will end it here. Just message me on my platforms if you have any questions. But to sum it up, programming has been so fun these past few months. 
 
 <h3 align="left">Languages and Tools</h3>
    
