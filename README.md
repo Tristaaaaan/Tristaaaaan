@@ -8,7 +8,7 @@ I began programming in my first year as a college student. Python has been the m
 
 I started venturing into other frameworks, such as Kotlin, for which I developed a simple project and named it Winr. Aside from that, I also began learning React Native, and I already love it. Over-the-air loading is just a game changer. 🤯 I also started diving into the utilization of Supabase and FastAPI. 
 
-Currently, I am working on a Coffee Borer Beetle Detection System where I am training a model that will be used in detecting the entry holes, which are the most common symptom to determine if a coffee berry is infested by a CBB. I have already begun the training of the model, and I can say that the accuracy is satisfying for other classes, and we will be gathering more data to be trained to solidify the model. 😍
+Currently, I am working on a Coffee Borer Beetle Detection System where I am training a model that will be used in detecting the entry holes, which are the most common symptom to determine if a coffee berry is infested by a CBB. I have already begun the training of the model, and I can say that the accuracy is satisfying for other classes, and we will be gathering more data to be trained to solidify the model. Additionally, I am developing a mobile application using Flutter and Firebase. 😍
 
 For the 1st half of this year, I plan to publish all my projects on the Google Play Store. 💥
 
