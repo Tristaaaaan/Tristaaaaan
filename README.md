@@ -1,6 +1,6 @@
 <h1 align="center">Good day, I'm Tristan</h1>
 
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">a Software Developer</h3>
 
 <h3 align="left">About</h3>
 
