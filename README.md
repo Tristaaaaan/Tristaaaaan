@@ -4,7 +4,7 @@
 
 <h3 align="left">About</h3>
 
-A developer who uses Flutter, Kivy, a Python framework, and Kotlin in mobile application development.
+A developer who uses Flutter, Kivy, a Python framework, or Kotlin in mobile application development.
 
 Loves integrating IoT and Embedded systems into mobile applications more.
 
