@@ -4,7 +4,11 @@
 
 <h3 align="left">About</h3>
 
-Test!?
+A developer who uses Flutter, Kivy, a Python framework, and Kotlin in mobile application development.
+
+Loves integrating IoT and Embedded systems into mobile applications more.
+
+Most of the applications I developed were written using Dart and Flutter framework while having Firebase as the backend.
 
 <h3 align="left">Languages and Tools</h3>
    
