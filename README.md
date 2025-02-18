@@ -1,6 +1,6 @@
 <h1 align="left">Tristan</h1>
 
-<h3 align="left">Software Developer</h3>
+<h2 align="left">Software Developer</h2>
 
 <h3 align="left">About</h3>
 
