@@ -1,6 +1,4 @@
-<h1 align="left">Software Developer</h1>
-
-<h3 align="left">About</h3>
+<h1 align="left">About</h1>
 
 A developer who uses Flutter, Kotlin, or Kivy, a Python framework, in mobile application development.
 
