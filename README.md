@@ -1,6 +1,4 @@
-<h1 align="left">Tristan</h1>
-
-<h2 align="left">Software Developer</h2>
+<h1 align="left">Software Developer</h1>
 
 <h3 align="left">About</h3>
 
