@@ -21,11 +21,11 @@ Most applications I developed were written using the Dart and Flutter framework,
 
 <h1 align="left">Personal Projects</h1>
 
-<h3 align="left">completed:</h3>
+<h3 align="left">completed ^^</h3>
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tristan's-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/developer?id=Tristan%27s&hl=en) 
 
-<h3 align="left">in the making:</h3>
+<h3 align="left">in the making -.- >.< </h3>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-Elements-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/elements) [![View on GitHub](https://img.shields.io/badge/GitHub-LetterChase-181717?style=for-the-badge&logo=github)]([https://github.com/Tristaaaaan/elements](https://github.com/Tristaaaaan/letterchase))
 
