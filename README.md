@@ -13,6 +13,9 @@ Most applications I developed were written using the Dart and Flutter framework,
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tristaaaaan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
+<h3 align="left">Personal Projects:</h3>
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-SURI-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.tristans.suri) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Winr-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.tristans.winr) 
 
 <h3 align="left">Support:</h3>
 
