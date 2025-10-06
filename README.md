@@ -15,7 +15,7 @@ Most applications I developed were written using the Dart and Flutter framework,
 
 <h3 align="left">Personal Projects:</h3>
 
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-SURI-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.tristans.suri) [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Winr-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.tristans.winr) 
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tristan's-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/developer?id=Tristan%27s&hl=en) 
 
 <h3 align="left">Support:</h3>
 
