@@ -27,7 +27,7 @@ Most applications I developed were written using the Dart and Flutter framework,
 
 <h3 align="left">in the making -.- >.< T.T </h3>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Elements-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/elements) [![View on GitHub](https://img.shields.io/badge/GitHub-LetterChase-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/letterchase)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Elements-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/elements) [![View on GitHub](https://img.shields.io/badge/GitHub-LetterChase-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/letterchase) [![View on GitHub](https://img.shields.io/badge/GitHub-Tugtugan-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/tugtugan) [![View on GitHub](https://img.shields.io/badge/GitHub-AThousandWords-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/athousandwords)
 
 <h1 align="left">Support</h1>
 
