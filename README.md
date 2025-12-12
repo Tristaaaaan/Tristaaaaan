@@ -24,7 +24,7 @@ Most applications I developed were written using the Dart and Flutter framework,
 
 <h1 align="left">Personal Projects</h1>
 
-<h3 align="left">completed ^^</h3>
+<h3 align="left">published ^^</h3>
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tristan's-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/developer?id=Tristan%27s&hl=en) 
 
