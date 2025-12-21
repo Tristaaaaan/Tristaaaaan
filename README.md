@@ -33,9 +33,9 @@ Most applications I developed were written using the Dart and Flutter framework,
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Element_Hunt-34A853?style=for-the-badge&logo=googleplay)](https://groups.google.com/g/element-hunt) -->
 
   
-<h3 align="left">in the making -.- >.< T.T </h3>
+<!-- <h3 align="left">in the making -.- >.< T.T </h3>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-LetterChase-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/letterchase) [![View on GitHub](https://img.shields.io/badge/GitHub-Tugtugan-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/tugtugan) [![View on GitHub](https://img.shields.io/badge/GitHub-AThousandWords-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/athousandwords) [![View on GitHub](https://img.shields.io/badge/GitHub-Ping-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/ping)
+[![View on GitHub](https://img.shields.io/badge/GitHub-LetterChase-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/letterchase) [![View on GitHub](https://img.shields.io/badge/GitHub-Tugtugan-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/tugtugan) [![View on GitHub](https://img.shields.io/badge/GitHub-AThousandWords-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/athousandwords) [![View on GitHub](https://img.shields.io/badge/GitHub-Ping-181717?style=for-the-badge&logo=github)](https://github.com/Tristaaaaan/ping) -->
 
 <h1 align="left">Support</h1>
 
