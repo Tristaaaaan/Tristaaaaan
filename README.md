@@ -25,7 +25,7 @@ Most applications I developed were written using the Dart and Flutter framework,
 <h1 align="left">Personal Projects</h1>
 
 
-<h3 align="left">Closed Test -.-</h3>
+<h3 align="left">closed Test -.-</h3>
 
 <a href="https://groups.google.com/u/1/g/parkbill-testers">
   <img src="https://img.shields.io/badge/Google_Play-ParkBill-34A853?style=for-the-badge&logo=googleplay" alt="Get it on Google Play">
