@@ -1,10 +1,8 @@
 <h1 align="left">About</h1>
 
-A developer who uses Flutter in mobile application development.
+Loves integrating IoT and Embedded systems into mobile applications.
 
-Loves integrating IoT and Embedded systems into mobile applications more.
-
-Most applications I developed were written using the Dart and Flutter framework, with Firebase as the backend.
+Most of the applications I have developed were built using the Dart programming language and the Flutter framework.
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
