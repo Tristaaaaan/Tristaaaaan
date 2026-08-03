@@ -26,6 +26,10 @@ Most of the applications I have developed were built using the Dart programming 
 <h1 align="left">Personal Projects</h1>
 
 
+<h3 align="left">published ^^</h3>
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tristan's-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/developer?id=Tristan%27s&hl=en) 
+
 <h3 align="left">closed Test -.-</h3>
 
 <a href="https://groups.google.com/u/1/g/parkbill-testers">
@@ -36,11 +40,6 @@ Most of the applications I have developed were built using the Dart programming 
 <a href="https://groups.google.com/u/4/g/ss-chem-tool-testers">
   <img src="https://img.shields.io/badge/Google_Play-SpaceStation14ChemistryTool-34A853?style=for-the-badge&logo=googleplay" alt="Get it on Google Play">
 </a>
-
-
-<h3 align="left">published ^^</h3>
-
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tristan's-34A853?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/developer?id=Tristan%27s&hl=en) 
 
 <!-- <h3 align="left">in testing :)</h3>
 
